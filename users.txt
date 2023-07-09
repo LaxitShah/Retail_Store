@@ -1,0 +1,4 @@
+John Doe,john123,730734381,admin
+Sam Joseph,sam123,730734381,member
+Stefan Salvatore,stefan123,730734381,non-member
+helloThere,hello1,-1094953564,member
